@@ -1,3 +1,1 @@
-# NewRepo
-Newrepo
-Good to have Readme
+Step 1 : Cloned means remote master to local master
